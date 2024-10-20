@@ -1,5 +1,4 @@
 # Parallelized Minesweeper Solver
-Final project for 15-418 at Carnegie Mellon University.
 
 There are 3 different implementations besides the sequential version: CUDA, CUDA with shared memory, and OpenMP.
 The CUDA implementation achieves the best speedup overall. 
